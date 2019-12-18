@@ -1,0 +1,7 @@
+com\taras\BookOperations.class
+com\taras\Author.class
+com\taras\HibernateUtil.class
+com\taras\BookOperationsImpl.class
+com\taras\Factory.class
+com\taras\Main.class
+com\taras\Book.class
